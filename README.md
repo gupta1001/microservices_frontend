@@ -5,6 +5,7 @@ We can see the working of the microservices together in sync with frontend makin
 Please refer the below diagram to see the complete flow.
 PS - in diagran it shows orders and inventory (products) frontend together but we can create seperate apps as well
 
+<img width="976" alt="Microservice_Arch" src="https://user-images.githubusercontent.com/90515961/164561188-32faaee7-c834-4e77-9f46-061032c27f2b.png">
 
 
 
