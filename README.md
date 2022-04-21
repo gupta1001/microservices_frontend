@@ -1,3 +1,14 @@
+# Microservices-Frontend
+in the above react application created using React-js we have clubbed the fronend of both inventory and payment microserves together
+We can see the working of the microservices together in sync with frontend making calls like "Get, POST, DELETE"
+
+Please refer the below diagram to see the complete flow.
+PS - in diagran it shows orders and inventory (products) frontend together but we can create seperate apps as well
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
